@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: easierlife
-Version: 0.1.0
+Version: 0.2.0
 Summary: Utilities for comparing CSV and NumPy files and normalizing paths.
 Author-email: Your Name <you@example.com>
 License: MIT
