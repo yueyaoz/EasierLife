@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/easierlife/__init__.py
+src/easierlife/core.py
+src/easierlife.egg-info/PKG-INFO
+src/easierlife.egg-info/SOURCES.txt
+src/easierlife.egg-info/dependency_links.txt
+src/easierlife.egg-info/requires.txt
+src/easierlife.egg-info/top_level.txt

@@ -1,0 +1,44 @@
+Metadata-Version: 2.4
+Name: easierlife
+Version: 0.1.0
+Summary: Utilities for comparing CSV and NumPy files and normalizing paths.
+Author-email: Your Name <you@example.com>
+License: MIT
+Keywords: csv,numpy,data,comparison,testing
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Software Development :: Testing
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: license-file
+
+# EasierLife
+
+`EasierLife` provides utilities for comparing CSV and NumPy files across folder structures, with support for ignored files, file set comparison, and tolerance-based numeric comparisons.
+
+## Installation
+
+Install the package with:
+
+```bash
+pip install .
+```
+
+## Usage
+
+```python
+from easierlife import compare_csv_folders, compare_npy_folder
+```
+
+## Requirements
+
+- Python 3.10+
+- pandas
+- numpy
